@@ -7,7 +7,6 @@
     "test": "test"
   },
   "dependencies": {
-    "binary-search-bounds": "^1.0.0"
   },
   "devDependencies": {
     "covert": "^1.0.1",
